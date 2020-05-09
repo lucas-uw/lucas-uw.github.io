@@ -63,14 +63,14 @@
 }
 
 /*set background image*/
-.demo-layout-transparent {
+.xc-layout-transparent {
   background: url("https://raw.githubusercontent.com/lucas-uw/MDL-personal-site/master/assets/img/website_background.png") center / cover;
   background-size: cover;
 }
-.demo-layout-transparent.is-small-screen .demo-content {
+.xc-layout-transparent.is-small-screen .demo-content {
   padding: 40px 28px;
 }
-.demo-layout-transparent .mdl-layout__header,
-.demo-layout-transparent .mdl-layout__drawer-button {
+.xc-layout-transparent .mdl-layout__header,
+.xc-layout-transparent .mdl-layout__drawer-button {
   color: black;
 }
