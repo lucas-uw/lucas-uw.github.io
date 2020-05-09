@@ -61,56 +61,6 @@
         </style>
     </head>
 
-
-    <!-- Add a header with drawer, as a test -->>
-    <header class="mdl-layout__header">
-    <!--header class="mdl-layout__header" style="position: fixed"-->
-    <!--div class="demo-layout-transparent mdl-layout mdl-js-layout"-->
-    <!--header class="mdl-layout__header mdl-layout__header--transparent"-->
-        <div class="mdl-layout__header-row">
-            <!-- Title -->
-            <span class="mdl-layout-title"><a style="color: black; text-decoration:none" href="{{ site.url }}">{{ site.title }}</a></span>
-            <!-- Add spacer, to align navigation to the right -->
-            <div class="mdl-layout-spacer"></div>
-
-            <!--div class="mdl-textfield mdl-js-textfield mdl-textfield--expandable is-upgraded">
-                <label class="mdl-button mdl-js-button mdl-button--icon" for="js-search__input">
-                    <i class="material-icons">search</i>
-                </label>
-
-                <div class="mdl-textfield__expandable-holder" >
-                    <input class="mdl-textfield__input super-search__input" type="text" id="js-search__input" />
-                </div>
-            </div-->
-
-            <button class="mdl-button mdl-js-button mdl-button--icon" id="menu-lower-left">
-                <i class="material-icons">more_vert</i>
-            </button>
-            <ul class="mdl-menu mdl-menu--bottom-right mdl-js-menu mdl-js-ripple-effect" for="menu-lower-left">
-            {% for option in site.more_vert %}
-            <li><a href="{{ option[1].link }}" class="mdl-menu__item">{{ option[1].name }}</a></li>
-            {% endfor %}
-            </ul>
-        </div>
-
-
-        <div class="mdl-layout__drawer">
-            <span class="mdl-layout-title">Menu</span>
-            <nav class="mdl-navigation">
-            <a class="mdl-navigation__link" href="{{ site.url }}">Home</a>
-            <a class="mdl-navigation__link" href="{{ site.url }}CV">Curriculum Vitae</a>
-            <a class="mdl-navigation__link" href="{{ site.url }}Research">Research</a>
-            <a class="mdl-navigation__link" href="{{ site.url }}Publications">Publications</a>
-            <a class="mdl-navigation__link" href="{{ site.url }}Activities">Activities</a>
-            <a class="mdl-navigation__link" href="{{ site.url }}Contact">Contact</a>
-            <a class="mdl-navigation__link" href="https://wolfscie.wordpress.com">My Blog</a>
-            <a class="mdl-navigation__link" href="{{ site.url }}assets/docs/CV_ChenX.pdf">CV (pdf)</a>
-            </nav>
-        </div>
-    </header>
-  
-
-
   <body>
     <div class="demo-layout mdl-layout mdl-layout--fixed-header mdl-js-layout mdl-color--grey-100">
       <header class="demo-header mdl-layout__header mdl-layout__header--scroll mdl-color--grey-100 mdl-color-text--grey-800">
@@ -128,6 +78,23 @@
           </div>
         </div>
       </header>
+
+      <div class="mdl-layout__drawer">
+        <span class="mdl-layout-title">Menu</span>
+        <nav class="mdl-navigation">
+        <a class="mdl-navigation__link" href="{{ site.url }}">Home</a>
+        <a class="mdl-navigation__link" href="{{ site.url }}CV">Curriculum Vitae</a>
+        <a class="mdl-navigation__link" href="{{ site.url }}Research">Research</a>
+        <a class="mdl-navigation__link" href="{{ site.url }}Publications">Publications</a>
+        <a class="mdl-navigation__link" href="{{ site.url }}Activities">Activities</a>
+        <a class="mdl-navigation__link" href="{{ site.url }}Contact">Contact</a>
+        <a class="mdl-navigation__link" href="https://wolfscie.wordpress.com">My Blog</a>
+        <a class="mdl-navigation__link" href="{{ site.url }}assets/docs/CV_ChenX.pdf">CV (pdf)</a>
+        </nav>
+    </div>
+
+
+
       <div class="demo-ribbon"></div>
       <main class="demo-main mdl-layout__content">
         <div class="demo-container mdl-grid">
