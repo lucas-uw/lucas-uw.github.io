@@ -65,7 +65,6 @@
 /*set background image*/
 .xc-layout-transparent {
   background: url("https://raw.githubusercontent.com/lucas-uw/MDL-personal-site/master/assets/img/website_background.png") center / cover;
-  background-size: cover;
 }
 .xc-layout-transparent .mdl-layout__header,
 .xc-layout-transparent .mdl-layout__drawer-button {
