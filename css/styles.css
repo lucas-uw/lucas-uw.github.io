@@ -72,11 +72,11 @@
 
 /* Card setup*/
 /*.mdl-grid {
-  max-width: 1200px;
-}
+  max-width: 600px;
+*/}
 .mdl-card__media {
   margin: 0;
 }
 .mdl-card__media > img {
   max-width: 100%;
-}*/
+}
