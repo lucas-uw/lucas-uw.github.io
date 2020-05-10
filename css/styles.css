@@ -15,9 +15,9 @@
  */
 
 .demo-ribbon {
-  width: 100%;
+  width: 0%;
   height: 40vh;
-  background-color: #00DDDDDD;
+  background-color: #DDDDDD;
   flex-shrink: 0;
 }
 
