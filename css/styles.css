@@ -15,14 +15,14 @@
  */
 
 .demo-ribbon {
-  width: 0%;
-  height: 40vh;
+  width: 1%;
+  height: 0vh;
   background-color: #DDDDDD;
   flex-shrink: 0;
 }
 
 .demo-main {
-  margin-top: -35vh;
+  margin-top: 0vh;
   -webkit-flex-shrink: 0;
       -ms-flex-negative: 0;
           flex-shrink: 0;
