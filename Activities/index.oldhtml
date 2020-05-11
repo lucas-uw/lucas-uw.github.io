@@ -87,163 +87,71 @@
                         <div class="mdl-cell mdl-cell--2-col mdl-cell--hide-tablet mdl-cell--hide-phone"></div>
                         <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--8-col">
                             <div class="demo-crumbs mdl-color-text--grey-500">
-                                <a style="color:grey" href="https://lucas-uw.github.io/MDL-personal-site/">Home</a> &gt Publications
+                                <a style="color:grey" href="https://lucas-uw.github.io/MDL-personal-site/">Home</a> &gt Activities
                             </div>
 
 
                             <br />
-                            <h4 style="color:black; text-align:center"> Publications </h4>
+                            <h4 style="color:black; text-align:center"> Activities </h4>
+
+
+                            <br />
+                            <h6 style="font-size:large">Selected Presentations</h6>
+                            <dl>
+                                <dd>
+                                    <p>
+                                        <b>California Extreme Precipitation Symposium Invited Talk</b>. Oral Presentation: <i>Footprint of atmospheric rivers on land and implications for managing water resources</i> (UC Davis, CA, June 30, 2020)
+                                    </p>
+                                </dd>
+                                    
+                                <dd>
+                                    <p>
+                                        <b>AMS 100th Annual Meeting</b>. Oral Presentation: <i></i>Precipitation Morphology in the Western United States: Its Relationship to Ambient Atmospheric Conditions and Future Changes</i> (Boston, MA, Jan 11-15, 2020)
+                                    </p>
+                                </dd>
+
+                                <dd>
+                                    <p>
+                                        <b>2019 PNNL ASGC Devision Semimar</b>. Oral Presentation: <i></i>Atmospheric rivers, extreme precipitation,and rain-on-snow: A model-based investigation of hydroclimate extremes in the western U.S.</i> (Richland, WA, 2019)
+                                    </p>
+                                </dd>
+
+                                <dd>
+                                    <p>
+                                        <b>2019 PNNL Post Graduate Research Symposium</b>. Oral Presentation: <i></i>A framework to delineate precipitation-runoff regimes: Precipitation vs. snowpack in the western U.S.</i>(Richland, WA, 2019)
+                                    </p>
+                                </dd>
+
+                                <dd>
+                                    <p>
+                                        <b>2018 PNNL Post Graduate Research Symposium</b>. Oral Presentation: <i></i>Predictability of Extreme Precipitation in Western U.S. Watersheds Based on Atmospheric River Occurrence, Intensity, and Duration</i> (Richland, WA, 2018)
+                                    </p>
+                                </dd>
+
+                                <dd>
+                                    <p>
+                                        <b>AMS 97th Annual Meeting</b>. Oral Presentation: <i></i>Climate Controls on the Extreme Rainstorms in the Contiguous US: 1979-2015</i> (Seattle, WA, 2017)
+                                    </p>
+                                </dd>
+
+                                <dd>
+                                    <p>
+                                        <b>NIES Invited Talk</b>. <i></i>Introduction to VIC model and its application in wetland methane emissions estimation</i> (Tsukuba, Japan, 2013)
+                                    </p>
+                                </dd>
+
+                                <dd>
+                                    <p>
+                                        <b>ENVIROMIS-2012 Summer Workshop Invited Talk</b>. <i></i>Model Estimates of Pan-Arctic Lakes and Wetlands Methane Emissions</i> (Irkutsk, Russia, 2012)
+                                    </p>
+                                </dd>
+
+
+
                             
-                            <h6> <a style="color:grey" href="https://lucas-uw.github.io/MDL-personal-site/Pub_card">[under construction]</a> </h6>
-
-                            <br />
-                            <div style="padding-left:0em"><li style="font-size:large">2020</li></div>
-                            <dl>
-                                <dt></dt>
-                                <dd><div style="padding-left:0.5em"><p style="text-indent:-1.7em">
-                                21. Anderson, C. et al. (2020), Soil Moisture and Hydrology Projections of the Permafrost Region - A Model Intercomparison, <i>The Cryosphere</i>, doi: <a style="color:royalblue" href="https://www.the-cryosphere.net/14/445/2020/">10.5194/tc-14-445-2020</a>
-                                </p></div></dd>
+                                
                             </dl>
 
-                            <br />
-                            <div style="padding-left:0em"><li style="font-size:large">2019</li></div>
-                            <dl>
-                                <dt></dt>
-                                <dd><div style="padding-left:0.5em"><p style="text-indent:-1.7em">
-                                20. <b>Chen, X.</b>, Z. Duan, L. R. Leung, and M. Wigmosta (2019), A Framework to Delineate Precipitation-Runoff Regimes: Precipitation vs. Snowpack in the Western U.S., <i>Geophys. Res. Lett.</i> doi: <a style="color:royalblue" href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2019GL085184">10.1029/2019GL085184</a> [<a href="https://eos.org/editor-highlights/atmospheric-rivers-trigger-heavy-snowmelt-in-western-usa"><b>EOS highlight</b></a>]
-                                </p></div></dd>
-                                <dd><div style="padding-left:0.5em"><p style="text-indent:-1.7em">
-                                19. Perkins, W. A. et al. (2019), Parallel distributed hydrological model using global arrays, <i>Env. Mod. Soft.</i> doi: <a style="color:royalblue" href="https://www.sciencedirect.com/science/article/pii/S1364815219303226">10.1016/j.envsoft.2019.104533</a>
-                                </p></div></dd>
-                                <dd><div style="padding-left:0.5em"><p style="text-indent:-1.7em">
-                                18. <b>Chen, X.</b>, L. R. Leung, M. Wigmosta, and M. Richmond (2019), Impact of Atmospheric Rivers on Surface Hydrological Processes in Western U.S. Watersheds, <i>J. Geophys. Res.: Atmos.</i> doi: <a style="color:royalblue" href="https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2019JD030468">10.1029/2019JD030468</a> [<a href="https://agupubs.onlinelibrary.wiley.com/toc/21698996/2019/124/16"><b>Cover image</b></a>] [<a href="https://eos.org/editor-highlights/hydrological-footprint-of-atmospheric-rivers-on-land"><b>EOS highlight</b></a>] [<a style="color:darkorchid">Top download of JGR-A between 2018-2019</a>]
-                                </p></div></dd>
-                                <dd><div style="padding-left:0.5em"><p style="text-indent:-1.7em">
-                                17. <b>Chen, X.</b> and F. Hossain (2019), Understanding future safety of dams in a changing climate, <i>B. Am. Meteorol. Soc.</i>  doi: <a style="color:royalblue" href="https://journals.ametsoc.org/doi/abs/10.1175/BAMS-D-17-0150.1">10.1175/BAMS-D-17-0150.1</a>
-                                </p></div></dd>
-                                <dd><div style="padding-left:0.5em"><p style="text-indent:-1.7em">
-                                16. Eldardiry, H. et al. (2019),  Atmospheric River-Induced Precipitation and Snowpack during the Western United States Cold Season, <i>J. Hydrometeor.</i>  doi: <a style="color:royalblue" href="https://journals.ametsoc.org/doi/10.1175/JHM-D-18-0228.1">10.1175/JHM-D-18-0228.1</a>
-                                </p></div></dd>
-                            </dl>
-
-
-                            <br />
-                            <div style="padding-left:0em"><li style="font-size:large">2018</li></div>
-                            <dl>
-                                <dt></dt>
-                                <dd><div style="padding-left:0.5em"><p style="text-indent:-1.7em">
-                                15. <b>Chen, X.</b>, L. R. Ruby, Y. Gao, Y. Liu, M. Wigmosta, and M. Richmond (2018), Predictability of Extreme Precipitation in Western U.S. Watersheds Based on Atmospheric River Occurrence, Intensity, and Duration, <i>Geophys. Res. Lett.</i> doi: <a style="color:royalblue" href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2018GL079831">10.1029/2018GL079831</a>
-                                </p></div></dd>
-                                <dd><div style="padding-left:0.5em"><p style="text-indent:-1.7em">
-                                14. <b>Chen, X.</b>, and F. Hossain (2018), Understanding model-based probable maximum precipitation estimation as a function of location and season from atmospheric reanalysis, <i>J. Hydrometeor.</i> doi: <a style="color:royalblue" href="https://journals.ametsoc.org/doi/abs/10.1175/JHM-D-17-0170.1">10.1175/JHM-D-17-0170.1</a>
-                                </p></div></dd>
-                            </dl>
-
-
-                            <br />
-                            <div style="padding-left:0em"><li style="font-size:large">2017</li></div>
-                            <dl>
-                                <dt></dt>
-                                <dd><div style="padding-left:0.5em"><p style="text-indent:-1.7em">
-                                13. <b>Chen, X.</b>, F. Hossain, and L. R. Leung (2017), Probable maximum precipitation in the U.S. Pacific Northwest in a changing climate, <i>Water Resour. Res.</i> doi: <a style="color:royalblue" href="https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1002/2017WR021094">10.1002/2017WR021094</a>
-                                </p></div></dd>
-                                <dd><div style="padding-left:0.5em"><p style="text-indent:-1.7em">
-                                12. <b>Chen, X.</b>, F. Hossain, and L. R. Leung (2017), Establishing a numerical modeling framework for hydrologic engineering analyses of extreme storm events, <i>J. Hydrol. Eng.</i> doi: <a style="color:royalblue" href="https://ascelibrary.org/doi/10.1061/%28ASCE%29HE.1943-5584.0001523">10.1061/(ASCE)HE.1943-5584.0001523</a>
-                                </p></div></dd>
-                                <dd><div style="padding-left:0.5em"><p style="text-indent:-1.7em">
-                                11. Xia, J., et al. (2017), Terrestrial ecosystem model performance in simulating net primary productivity and its vulnerability to climate change in the northern permafrost region, <i>J. Geophys. Res.: Biogeosciences.</i> doi: <a style="color:royalblue" href="https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1002/2016JG003384">10.1002/2016JG003384</a> [<a style="color:darkorchid">Top download of JGR-B between 2017-2018</a>]
-                                </p></div></dd>
-                            </dl>
-
-
-                            <br />
-                            <div style="padding-left:0em"><li style="font-size:large">2016</li></div>
-                            <dl>
-                                <dt></dt>
-                                <dd><div style="padding-left:0.5em"><p style="text-indent:-1.7em">
-                                10. <b>Chen, X.</b> and Hossain, F. (2016), Revisiting extreme storms of the past 100 years for future safety of large water management infrastructures, <i>Earth's Future</i> doi: <a style="color:royalblue" href="https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1002/2016EF000368">10.1002/2016EF000368</a>
-                                </p></div></dd>
-                                <dd><div style="padding-left:0.5em"><p style="text-indent:-1.7em">
-                                9. Sikder, S., <b>X. Chen</b>, F. Hossain, J. Roberts, F. Robertson, C. Shum, and F. Turk (2016), Are General Circulation Models Ready for Operational Streamflow Forecasting for Water Management in the Ganges and Brahmaputra River Basins? <i>J. Hydrometeor.</i> doi: <a style="color:royalblue" href="https://journals.ametsoc.org/doi/abs/10.1175/JHM-D-14-0099.1">10.1175/JHM-D-14-0099.1</a>
-                                </p></div></dd>
-                                <dd><div style="padding-left:0.5em"><p style="text-indent:-1.7em">
-                                8. McGuire, A. D., et al. (2016), Variability in the sensitivity among model simulations of permafrost and carbon dynamics in the permafrost region between 1960 and 2009, <i>Global Biogeochem. Cycles</i> doi: <a style="color:royalblue" href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2016GB005405">10.1002/2016GB005405</a>
-                                </p></div></dd>
-                                <dd><div style="padding-left:0.5em"><p style="text-indent:-1.7em">
-                                7. Wang, W., et al. (2016), Evaluation of air–soil temperature relationships simulated by land surface models during winter across the permafrost region, <i>The Cryosphere</i> doi: <a style="color:royalblue" href="https://www.the-cryosphere.net/10/1721/2016/">10.5194/tc-10-1721-2016</a>
-                                </p></div></dd>
-                                <dd><div style="padding-left:0.5em"><p style="text-indent:-1.7em">
-                                6. Peng, S., et al. (2016), Simulated high-latitude soil thermal dynamics during the past 4 decades, <i>The Cryosphere</i> doi: <a style="color:royalblue" href="https://www.the-cryosphere.net/10/179/2016/">10.5194/tc-10-179-2016</a>
-                                </p></div></dd>
-                                <dd><div style="padding-left:0.5em"><p style="text-indent:-1.7em">
-                                5. Bonnema, M., et al. (2016), Understanding satellite-based monthly-to-seasonal reservoir outflow estimation as a function of hydrologic controls, <i>Water Resour. Res.</i> doi: <a style="color:royalblue" href="https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1002/2015WR017830">10.1002/2015WR017830</a>
-                                </p></div></dd>
-                            </dl>
-
-
-                            <br />
-                            <div style="padding-left:0em"><li style="font-size:large">2015</li></div>
-                            <dl>
-                                <dt></dt>
-                                <dd><div style="padding-left:0.5em"><p style="text-indent:-1.7em">
-                                4. <b>Chen, X.</b>, Bohn, T. J., and Lettenmaier, D. P. (2015), Model estimates of climate controls on pan-Arctic wetland methane emissions, <i>Biogeosciences</i> doi: <a style="color:royalblue" href="https://www.biogeosciences.net/12/6259/2015/">10.5194/bg-12-6259-2015</a>
-                                </p></div></dd>
-                                <dd><div style="padding-left:0.5em"><p style="text-indent:-1.7em">
-                                3. Rawlins, M. A., et al. (2015), Assessment of model estimates of land-atmosphere CO2 exchange across Northern Eurasia, <i>Biogeosciences</i> doi: <a style="color:royalblue" href="https://www.biogeosciences.net/12/4385/2015/bg-12-4385-2015.html">10.5194/bg-12-4385-2015</a>
-                                </p></div></dd>
-                                <dd><div style="padding-left:0.5em"><p style="text-indent:-1.7em">
-                                2. Koven, C. D., et al. (2015), A simplified, data-constrained approach to estimate the permafrost carbon–climate feedback, <i>Phil. Trans. R. Soc. A</i> doi: <a style="color:royalblue" href="http://rsta.royalsocietypublishing.org/content/373/2054/20140423">10.1098/rsta.2014.0423</a>
-                                </p></div></dd>
-                            </dl>
-
-
-                            <br />
-                            <div style="padding-left:0em"><li style="font-size:large">2013</li></div>
-                            <dl>
-                                <dt></dt>
-                                <dd><div style="padding-left:0.5em"><p style="text-indent:-1.7em">
-                                1. Bohn, T. J., et al. (2013), Modeling the large-scale effects of surface moisture heterogeneity on wetland carbon fluxes in the West Siberian Lowland, <i>Biogeosciences</i> doi: <a style="color:royalblue" href="https://www.biogeosciences.net/10/6559/2013/">10.5194/bg-10-6559-2013</a>
-                                </p></div></dd>
-                            </dl>
-                            <br />
-                            <br />
-
-                            <br />
-                            <div style="padding-left:0em"><h6 style="font-size:large"><i>In preparation/review</i></h6></div>
-                            <dl>
-                                <dt></dt>
-                            </dl>
-
-                            <br />
-                            <br />
-                            <div style="padding-left:0em"><h6 style="font-size:large"><i>Book Chapters</i></h6></div>
-                            <dl>
-                                <dt></dt>
-                                <dd><div style="padding-left:0.5em"><p style="text-indent:-1.7em">
-                                3. <b>Chen, X.</b> (2020), Safety design of water infrastructures in a modern era, <i>Resilience of Large Water Management Infrastructure: Solutions from Modern Atmospheric Science</i>, Springer. doi: <a style="color:royalblue" href="https://link.springer.com/chapter/10.1007/978-3-030-26432-1_8">10.1007/978-3-030-26432-1_8</a>
-                                </p></div></dd>
-                                <!--dt></dt-->
-                                <dd><div style="padding-left:0.5em"><p style="text-indent:-1.7em">
-                                2. <b>Chen, X.</b>, F. Hossain, and L. R. Leung (2020), Application of numerical atmospheric models, <i>Resilience of Large Water Management Infrastructure: Solutions from Modern Atmospheric Science</i>, Springer. doi:<a style="color:royalblue" href="https://link.springer.com/chapter/10.1007/978-3-030-26432-1_4">10.1007/978-3-030-26432-1_4</a>
-                                </p></div></dd>
-                                <!--dt></dt-->
-                                <dd><div style="padding-left:0.5em"><p style="text-indent:-1.7em">
-                                1. <b>Chen, X.</b> and F. Hossain (2020), Infrastructure-relevant storms of the last century, <i>Resilience of Large Water Management Infrastructure: Solutions from Modern Atmospheric Science</i>, Springer. doi:<a style="color:royalblue" href="https://link.springer.com/chapter/10.1007/978-3-030-26432-1_5">10.1007/978-3-030-26432-1_5</a>
-                                </p></div></dd>
-                            </dl>
-
-                            <br />
-                            <br />
-                            <br />
-
-                            <br />
-                            <div style="padding-left:0em"><h6 style="font-size:large"><i>Non Peer-reviewed Articles</i></h6></div>
-                            <dl>
-                                <dt></dt>
-                                <dd><div style="padding-left:0.5em"><p style="text-indent:-1.7em">
-                                1. Miao, Y. et al. (2016), Maximizing Hydropower Generation with Numerical Modeling of the Atmosphere, <i>J. Hydrol. Eng.</i> (forum article). doi: <a style="color:royalblue" href="https://ascelibrary.org/doi/10.1061/%28ASCE%29HE.1943-5584.0001405">10.1061/(ASCE)HE.1943-5584.0001405</a>
-                                </p></div></dd>
-                            </dl>
 
                         </div>
                     </div>
@@ -367,7 +275,7 @@
                             </ul>
                         </div>
                       
-                      </footer>
+                    </footer>
 
 
 
